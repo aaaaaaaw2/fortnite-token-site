@@ -1,0 +1,10 @@
+body {
+    font-family: Arial;
+    color: rgb(0, 0, 0);
+    background: #1a1a2e url("/static/token.png") center / cover fixed;
+}
+
+table, th, td {
+    border: 1px solid white;
+    margin:150px auto 0;
+}
